@@ -1,4 +1,6 @@
 body {
+    background: rgb(87, 15, 73);
+    background: linear-gradient(90deg, rgba(87, 15, 73, 1) 0%, rgba(9, 9, 121, 1) 31%, rgba(0, 212, 255, 1) 100%);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -9,7 +11,7 @@ h1 {
     font-size: 102px;
 }
 .hours {
-    color: green;
+    color: rgb(22, 166, 210);
 }
 
 .minutes {
